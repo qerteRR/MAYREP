@@ -3,3 +3,4 @@ def sum(a,b):
     c=int(input("ЗДОРОВО ЧУВАК НАПИШИ ЛЮБЫЕ данные"))
     d=int(input)("введи число")
     print(sum(d,c),"сумма")
+    print(привет)
