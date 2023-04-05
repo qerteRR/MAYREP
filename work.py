@@ -4,3 +4,4 @@ def sum(a,b):
     d=int(input)("введи число")
     print(sum(d,c),"сумма")
     print(привет)
+    print(покаааа)
